@@ -66,9 +66,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - No cross browsers
 - You have to follow all requirements but some `margin/padding` are missing - you should try to fit as much as you can to screenshots
 
- More Info
+# More Info
 
-![](/holbertonschool-AirBnB_clone/web_static/images/hbnb_step1.png)
+![](./images/hbnb_step1.png)
 
 # Tasks
 
