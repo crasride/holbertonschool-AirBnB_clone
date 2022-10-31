@@ -179,8 +179,9 @@ Layout:
   - width: 100%
   - border bottom 1px #CCCCCC
   - [logo](./images/logo.png) align on left and center vertically (20px space at the left)
-  - 
+
 - Footer:
+
   - color white
   - height: 60px
   - width: 100%
