@@ -142,9 +142,9 @@ Requirements:
 - You must use the header and footer tags
 - No inline styling
 - You must have 3 CSS files:
-  - `styles/2-common.css:` for global style (i.e. the `body` style)
-  - `styles/2-header.css:` for header style
-  - `styles/2-footer.css:` for footer style
+  - [styles/[2-common.css]:](./styles/2-common.css) for global style (i.e. the `body` style)
+  - [styles/[2-header.css]:](./styles/2-header.css) for header style
+  - [styles/[2-common.css]:](./styles/2-footer.css) for footer style
 
 The layout must be exactly the same as `1-index.html`
 
@@ -193,9 +193,9 @@ Requirements:
 - You are not allowed to use the `style` tag in the `head` tag
 - All images must be stored in the `imagesè folder
 - You must have 3 CSS files:
-  - `styles/3-common.css:` for the global style (i.e `body` style)
-  - `styles/3-header.css:` for the header style
-  - `styles/3-footer.css:` for the footer style
+  - [styles/3-common.css:](./styles/3-common.css) for the global style (i.e `body` style)
+  - [styles/[3-header.css]:](./styles/3-header.css) for the header style
+  - [styles/[3-footer.css]:](./styles/3-footer.css) for the footer style
 
 ![](./images/task%203.png)
 
@@ -252,10 +252,10 @@ Requirements:
  - You are not allowed to use the `style` tag in the head tag
  - All images must be stored in the `images` folder
  - You must have 4 CSS files:
-   - `styles/4-common.css:` for the global style (`body` and .`container` styles)
-   - `styles/3-header.css:` for the header style
-   - `styles/3-footer.css:` for the footer style
-   - `styles/4-filters.css:` for the filters style
+   - [styles/[4-common.css]:](./styles/4-common.css) for the global style (`body` and .`container` styles)
+   - [styles/[3-header.css]:](./styles/3-header.css) for the header style
+   - [styles/[3-footer.css]:](./styles/3-footer.css) for the footer style
+   - [styles/[4-filters.css]:](./styles/4-filters.css) for the filters style
  - `4-index.html` won’t be W3C valid, don’t worry, it’s temporary
 
 ![](./images/task%204.png)
@@ -299,10 +299,10 @@ Requirements:
  - You are not allowed to use the `style` tag in the `head` tag
  - All images must be stored in the `images` folder
  - You must have 4 CSS files:
-    - styles/4-common.css: for the global style (`body` and `.container` styles)
-    - `styles/3-header.css:` for the header style
-    - `styles/3-footer.css:` for the footer style
-    - `styles/5-filters.css:` for the filters style
+    - [styles/4-common.css:](./styles/4-common.css) for the global style (`body` and `.container` styles)
+    - [styles/[3-header.css]:](./styles/3-header.css) for the header style
+    - [styles/[3-footer.css]:](./styles/3-footer.css) for the footer style
+    - [styles/[5-filters.css]:](./styles/5-filters.css) for the filters style
 
 ![](./images/task%205.png)
 
@@ -342,10 +342,10 @@ Requirements:
  - You are not allowed to use the `style` tag in the `head` tag
  - All images must be stored in the `images` folder
  - You must have 4 CSS files:
-    - `styles/4-common.css:` for the global style (`body` and `.container` styles)
-    - `styles/3-header.css:` for the header style
-    - `styles/3-footer.css:` for the footer style
-    - `styles/6-filters.css:` for the filters style
+    - [styles/[4-common.css]:](./styles/4-common.css) for the global style (`body` and `.container` styles)
+    - [styles/[3-header.css]:](./styles/3-header.css) for the header style
+    - [styles/[3-footer.css]:](./styles/3-footer.css) for the footer style
+    - [styles/[6-filters.css]:](./styles/6-filters.css)(./styles/3-footer.css) for the filters style
 
 ![](./images/task%206_1.png)
 
@@ -392,11 +392,11 @@ Requirements:
  - You are not allowed to use the `style` tag in the `head` tag
  - All images must be stored in the `images` folder
  - You must have 5 CSS files:
-   - `styles/4-common.css:` for the global style (i.e. `body` and `.container` styles)
-   - `styles/3-header.css:` for the header style
-   - `styles/3-footer.css:` for footer style
-   - `styles/6-filters.css:` for the filters style
-   - `styles/7-places.css:` for the places style
+   - [styles/[4-common.css]:](./styles/4-common.css) for the global style (i.e. `body` and `.container` styles)
+   - [styles/[2-header.css]:](./styles/3-header.css) for the header style
+   - [styles/[3-footer.css]:](./styles/3-footer.css) for footer style
+   - [styles/[6-filters.css]:](./styles/6-filters.css) for the filters style
+   - [styles/[7-filters.css]:](./styles/7-filters.css) for the places style
 
 ![](./images/task%207.png)
 
@@ -467,11 +467,11 @@ Requirements:
  - You are not allowed to use the `style` tag in the `head` tag
  - All images must be stored in the `images` folder
  - You must have 5 CSS files:
-   - `styles/4-common.css:` for the global style (i.e. `body` and .container` styles)
-   - `styles/3-header.css:` for the header style
-   - `styles/3-footer.css:` for the footer style   
-   - `styles/6-filters.css:` for the filters style
-   - `styles/8-places.css:` for the places style
+   - [styles/[4-common.css]:](./styles/4-common.css) for the global style (i.e. `body` and .container` styles)
+   - [styles/[3-header.css]:](./styles/3-header.css) for the header style
+   - [styles/[3-footer.css]:](./styles/3-footer.css) for the footer style   
+   - [styles/[6-filters.css]:](./styles/6-filters.css) for the filters style
+   - [styles/[8-places.css]:](./styles/8-places.css)for the places style
 
 ![](./images/task%208.png)
 
@@ -530,11 +530,11 @@ Requirements:
 - You are not allowed to use the `style` tag in the `head` tag
 - All images must be stored in the `images` folder
 - You must have 5 CSS files:
-  - styles/4-common.css: for the global style (`body` and `.container` styles)
-  - `styles/3-header.css:` for the header style
-  - `styles/3-footer.css:` for the footer style
-  - `styles/6-filters.css:` for the filters style
-  - `styles/100-places.css:` for the places style
+  - [styles/4-common.css](styles/4-common.css): for the global style (`body` and `.container` styles)
+  - [styles/[3-header.css]:](./styles/3-header.css) for the header style
+  - [styles/[3-footer.css]:](./styles/3-footer.css) for the footer style
+  - [styles/[6-filters.css]:](./styles/6-filters.css) for the filters style
+  - [styles/100-places.css](): for the places style
 
 ![](./images/task%209.png)
 
@@ -551,6 +551,13 @@ File: 100-index.html, styles/4-common.css, styles/3-header.css, styles/3-footer.
 Improve the Places section by using [Flexible boxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) for all Place articles
 
 [Flexbox Froggy](http://flexboxfroggy.com/)
+
+- You must have 5 CSS files:
+  - [styles/4-common.css](styles/4-common.css): for the global style (`body` and `.container` styles)
+  - [styles/[3-header.css]:](./styles/3-header.css) for the header style
+  - [styles/[3-footer.css]:](./styles/3-footer.css) for the footer style
+  - [styles/[6-filters.css]:](./styles/6-filters.css) for the filters style
+  - [styles/101-places.css](): for the places style
 
 ```
 Repo:
@@ -570,6 +577,13 @@ Examples:
  - redesign search bar depending of the width
  - etc.
 
+- You must have 5 CSS files:
+  - [styles/102-common.css](): for the global style (`body` and `.container` styles)
+  - [styles/[102-header.css]:]() for the header style
+  - [styles/[102-footer.css]:]() for the footer style
+  - [styles/[102-filters.css]:]() for the filters style
+  - [styles/102-places.css](): for the places style
+
 ```
 Repo:
 
@@ -588,6 +602,14 @@ Examples:
 - Colors contrast
 - Header tags
 - etc.
+
+- You must have 5 CSS files:
+  - [styles/103-common.css](): for the global style (`body` and `.container` styles)
+  - [styles/[103-header.css]:]() for the header style
+  - [styles/[103-footer.css]:]() for the footer style
+  - [styles/[103-filters.css]:]() for the filters style
+  - [styles/103places.css](): for the places style
+
 
 ```
 Repo:
