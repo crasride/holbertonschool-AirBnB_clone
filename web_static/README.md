@@ -396,7 +396,7 @@ Requirements:
    - [styles/[2-header.css]:](./styles/3-header.css) for the header style
    - [styles/[3-footer.css]:](./styles/3-footer.css) for footer style
    - [styles/[6-filters.css]:](./styles/6-filters.css) for the filters style
-   - [styles/[7-filters.css]:](./styles/7-filters.css) for the places style
+   - [styles/[7-places.css]:](./styles/7-places.css) for the places style
 
 ![](./images/task%207.png)
 
