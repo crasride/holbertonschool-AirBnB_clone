@@ -68,7 +68,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # More Info
 
-![](./images/hbnb_step1.png)
+![](/holbertonschool-AirBnB_clone/web_static/images/hbnb_step1.png)
 
 # Tasks
 
